@@ -1,7 +1,3 @@
-Reorder Sections
-Preview
-Markdown
-Copy
 Hi 👋 My name is Kellen Sullivan
 ================================
 
