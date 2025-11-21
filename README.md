@@ -1,16 +1,59 @@
-## Hi there 👋
 
-<!--
-**Kellen-Sullivan/Kellen-Sullivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Previous
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Next
+Style badges:
+
+Select a badge below to customise.
+
+
+ 
+Title
+Edit
+
+ 
+Text
+Edit
+
+ 
+Icons
+Edit
+
+ 
+Background
+Edit
+GitHub
+Stats Card
+Commit Streak
+Top Languages
+Top Repositories
+Follower Count
+X (Twitter)
+Please add your X profile in the socials section.
+
+Follower Count
+Twitch
+Please add your Twitch profile in the socials section.
+
+Streaming Status
+
+Previous
+
+Next
+Reorder Sections
+Preview
+Markdown
+Copy
+Hi 👋 My name is Kellen Sullivan
+================================
+
+I'm an undergraduate @ OSU passionate about machine learning and data engineering. I'm currently researching pathogen-survival modeling in OSU's AI4Food Lab, building real-world ML pipelines, and helping lead the AI Club, while pursuing an Honors B.S. in CS and an accelerated M.S. in AI.
+
+* 🌍  I'm based in Corvallis, Oregon
+* ✉️  You can contact me at [Kellen.r.sullivan@gmail.com](mailto:Kellen.r.sullivan@gmail.com)
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/Kellen-Sullivan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/kellen-r-sullivan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
